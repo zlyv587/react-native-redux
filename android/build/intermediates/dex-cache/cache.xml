@@ -2,158 +2,158 @@
 <items version="2" >
 
     <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-9ccdbee28072d5d474c36249d94383b6881e7f57.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-5c04ef41caa45951b48619d1ae2d21c2402cfcb7.jar" />
-    </item>
-    <item
         jar="/home/zhangliyong/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-b51912407b80928432d6c8f9cdfe0888e2872d22.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-4cf1d560dd4195a917ad7382f7d886b1eb087501.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-57e011424b4df988e0ac298ba6e8ef33e406a823.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-0d4cc187536cafe3b2a5043815f53efe097ebc00.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-6786ffa3fda7f20e2c7d4bc481c641958b3db6b9.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-6c8f44bd329e1c502e53f8d48cd79d42199c748c.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-f344f540b623eef35ea4d4938b310884c34e0337.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-eca2d92a6dfaa69ee2ccbeded8aa4e14682b04fd.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-dc6ff6163ca2078047becca947394cdf3e6f9c42.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-a9293cf241c7a3af23466d99a3db0bc1ac5b56c8.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-04c220030db3fca29a780588e5a2308860e84e46.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-0cde83584dba1b288546d0fb28db38b6f8c3590b.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-c6a49abffb8e619912b73ba8cac067744bfaedd2.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-9e6ab7753a9300144d199567f852e0cb66d2f358.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-0dae034478063527a67dde8961cab5375f177991.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-a049229e487193588cabd16e39ec7903e00c10ad.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-6d810162f5036e36507574b39aa406abe9f4f51c.jar" />
-    </item>
-    <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-d1e846d93ff4b103b69bdb0378f59d0ed3649e44.jar" />
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-b51912407b80928432d6c8f9cdfe0888e2872d22.jar" />
     </item>
     <item
         jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-8558b6daa44e2fb6fbf4e33837ff1993f8d3d947.jar" />
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-8558b6daa44e2fb6fbf4e33837ff1993f8d3d947.jar" />
     </item>
     <item
-        jar="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-0d4cc187536cafe3b2a5043815f53efe097ebc00.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-7644ed17ff2e951718d804a3d0bbb2b4815e7484.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-6d810162f5036e36507574b39aa406abe9f4f51c.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-c56929b644a2b3a0b549de46a8b218684b817118.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-0cde83584dba1b288546d0fb28db38b6f8c3590b.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-4cf1d560dd4195a917ad7382f7d886b1eb087501.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-f597cb4cf526fa2a20723ad8fb993d58b36477b7.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-c74b996e2742a9ab4ab08df15f5c750b89940ef7.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/.m2/repository/com/squareup/okio/okio/1.9.0/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-89e0fa6a12fb961247f09ef5f77f539d9f3044e4.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/.m2/repository/com/squareup/okhttp3/okhttp/3.4.1/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-5e1322639bbb34780d22a4564f5330a660035b38.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/home/zhangliyong/androidDemo/reduxProject/android/app/build/intermediates/pre-dexed/debug/classes-4eb59e2a0be979890ad3affbf4047a778ede830f.jar" />
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-61cb8c4f2514304f207048923cab8401e26a3c95.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-00832fef50605e9ed88965fac1c0ed46f2d3084c.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-9b35e2030c58ab12397a0563450e18c8d83e7188.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-67cfdef0551b1d152c593ae344936da39e9b3632.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-a049229e487193588cabd16e39ec7903e00c10ad.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-eb40571bf7e57a8826d7edd6de0817e922bb8d43.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-617b74ac0dbfd403043637a0133e9ee647d30a55.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-419ae1e8e580662dcbe638ae6be1c13a33c0b19c.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-217051c4c65c06fb54f3f787ff34c95bd463adf9.jar" />
+    </item>
+    <item
+        jar="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/zhangliyong/dev/demo/react-native-redux/android/app/build/intermediates/pre-dexed/debug/classes-3a169c96398e301ca1342a7dee1c153443a16960.jar" />
     </item>
 
 </items>

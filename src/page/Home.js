@@ -7,8 +7,7 @@ class Home extends Component {
 
     _onPressButton = () => {
         const {actions, disPatch} = this.props;
-        actions.homeAction('关于页面页面的主题啊啥的');\
-        disPatch(homeAction(//////))
+        actions.homeAction('关于页面页面的主题啊啥的');
     };
 
     ToAbout = () => {
@@ -18,7 +17,7 @@ class Home extends Component {
 
     render() {
         const {home} = this.props;
-        const text = home.aboutTittle || '变化一波啊'
+        const text = home.aboutTittle || '变化一波啊';
         return (
             <View>
                 <Text>home页面</Text>
@@ -37,7 +36,7 @@ class Home extends Component {
 export const LayoutComponent = Home;
 export function mapStateToProps(state) {
     return {
-        home: state.home2 ,
+        home: state.home,
         about: state.about,
     };
 }
